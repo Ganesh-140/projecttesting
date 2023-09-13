@@ -1,0 +1,15 @@
+
+.productdetailMain {
+	display: flex;
+	justify-content: space-between;
+.productdetailimg {
+	img {
+		width: 50%;
+    }
+}
+    .productdetailsTitle {
+        flex-direction: column;
+        display: flex;
+    }
+
+}

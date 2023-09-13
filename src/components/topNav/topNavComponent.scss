@@ -1,0 +1,22 @@
+.TopNav-section {
+    display: flex;
+    align-items: center;
+    @media screen and (max-width: 767px) {
+        flex-direction: column;        
+      }
+}
+.TopNav-section ul {
+    justify-content: flex-end;
+    width: 100%;
+    list-style-type: none;
+    display: flex;    
+    @media screen and (max-width: 767px) {
+    padding-inline-start: 0px;        
+      }
+}
+
+.TopNav-section li {
+    justify-content: flex-end;
+    margin: 0 10px;       
+    text-align: center; font-family: 'Oswald', sans-serif;  
+   }

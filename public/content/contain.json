@@ -1,0 +1,16 @@
+{
+    "banner": [
+        {
+            "desktop": "https://i8.amplience.net/i/jpl/desktop-top-banner-1920x840-home-10-3794dfba05fbbe869a63860c0fd83920?qlt=80",
+            "mobile": "http://via.placeholder.com/640x640"
+        },
+        {
+            "desktop": "https://i8.amplience.net/i/jpl/desktop-top-banner-1920x840-54-min-0a4637e70894502aebbcdc36fb18aa49?qlt=80",
+            "mobile": "http://via.placeholder.com/640x640/title"
+        },
+        {
+            "desktop": "https://i8.amplience.net/i/jpl/desktop-top-banner-1920x840-1-b0bb2d4131b9f098eed30b6f83beb842?qlt=80",
+            "mobile": "http://via.placeholder.com/640x640/titlered"  
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+
+.productListMain {
+    display: flex;
+    flex-wrap: wrap;
+
+    a {
+    flex: 0 0 23.5%;
+    width: 30%;
+  .productList {
+    margin: 10px;
+    height: auto;
+ 
+  .productListTitle {
+    display: block;
+    padding: 10px 0 10px 10px;
+    text-align: left;
+    float: left;
+    width: 100%;
+  } 
+  .productListimg img
+  {
+      width: 100%;
+  }
+  .productListPri {
+    display: block;
+    text-align: left;
+    padding: 10px;
+    font-weight: 500;
+  
+  span.waspri {
+    color: red;
+    font-weight: 500;
+    text-decoration: line-through;
+    padding-right: 10px;
+  }
+  span.nowpri,span.disper {
+    color: black;
+    font-weight: 500;
+    padding-right: 10px;
+  }
+}
+}
+
+}
+}

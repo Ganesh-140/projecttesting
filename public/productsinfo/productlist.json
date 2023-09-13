@@ -1,0 +1,581 @@
+{
+    "items": [
+        {
+            "plu": "19590120",
+            "description": "Tech Twist 1 2 Zip Top",
+            "unitPrice": "42.00",
+            "brand": "Under Armour",
+            "mediaRef": "jd_663909"
+        },
+        {
+            "plu": "19590070",
+            "description": "Scotland Rugby Union 2023 24 Home Shirt Women",
+            "wasPrice": "78.00",
+            "nowPrice": "70.00",
+            "disper": "10%",
+            "brand": "Macron",
+            "originalPlu": "19590070",
+            "mediaRef": "jd_653035"
+        },
+        {
+            "plu": "19590069",
+            "description": "Scotland Rugby Union RWC 2023 Home Shirt Women",
+            "unitPrice": "82.00",
+            "brand": "Macron",
+            "originalPlu": "19590069",
+            "mediaRef": "jd_653030"
+        },
+        {
+            "plu": "19590065",
+            "description": "Court Crop T-Shirt",
+            "unitPrice": "38.00",
+            "brand": "Hoodrich",
+            "originalPlu": "19590065",
+            "mediaRef": "jd_683329"
+        },
+        {
+            "plu": "19590063",
+            "description": "Saint Hoodie",
+            "unitPrice": "45.00",
+            "brand": "Supply & Demand",
+            "originalPlu": "19590063",
+            "mediaRef": "jd_678750"
+        },
+        {
+            "plu": "19590019",
+            "description": "Flex Tank Top",
+            "unitPrice": "27.00",
+            "brand": "The North Face",
+            "originalPlu": "19590019",
+            "mediaRef": "jd_655347"
+        },
+        {
+            "plu": "19590017",
+            "description": "Training One Elastika Tank Top",
+            "unitPrice": "28.00",
+            "brand": "Nike",
+            "originalPlu": "19590017",
+            "mediaRef": "jd_668483"
+        },
+        {
+            "plu": "19589922",
+            "description": "Lucid T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Supply & Demand",
+            "originalPlu": "19589922",
+            "mediaRef": "jd_678751"
+        },
+        {
+            "plu": "19589921",
+            "description": "Match Hoodie",
+            "unitPrice": "65.00",
+            "brand": "Hoodrich",
+            "originalPlu": "19589921",
+            "mediaRef": "jd_677794"
+        },
+        {
+            "plu": "19589919",
+            "description": "Classic Archive Joggers",
+            "unitPrice": "50.00",
+            "brand": "Reebok",
+            "originalPlu": "19589919",
+            "mediaRef": "jd_674909"
+        },
+        {
+            "plu": "19589918",
+            "description": "Classic Logo Hoodie",
+            "unitPrice": "55.00",
+            "brand": "Reebok",
+            "originalPlu": "19589918",
+            "mediaRef": "jd_674990"
+        },
+        {
+            "plu": "19589914",
+            "description": "Training One Dri-FIT Crew Sweatshirt",
+            "unitPrice": "65.00",
+            "brand": "Nike",
+            "originalPlu": "19589914",
+            "mediaRef": "jd_668486"
+        },
+        {
+            "plu": "19589896",
+            "description": "Mountain Athletics Wind Jacket",
+            "unitPrice": "80.00",
+            "brand": "The North Face",
+            "originalPlu": "19589896",
+            "mediaRef": "jd_655362"
+        },
+        {
+            "plu": "19589894",
+            "description": "Celtic FC Track Jacket",
+            "unitPrice": "65.00",
+            "brand": "adidas",
+            "originalPlu": "19589894",
+            "mediaRef": "jd_654960"
+        },
+        {
+            "plu": "19589869",
+            "description": "Classic Logo Crop T-Shirt",
+            "unitPrice": "30.00",
+            "brand": "Reebok",
+            "originalPlu": "19589869",
+            "mediaRef": "jd_674912"
+        },
+        {
+            "plu": "19587499",
+            "description": "Running Element Flash 1 4 Zip Top",
+            "unitPrice": "70.00",
+            "brand": "Nike",
+            "originalPlu": "19587499",
+            "mediaRef": "jd_668478"
+        },
+        {
+            "plu": "19584105",
+            "description": "Sneaker Queen T-Shirt",
+            "unitPrice": "38.00",
+            "brand": "Nike",
+            "originalPlu": "19584105",
+            "mediaRef": "jd_669212"
+        },
+        {
+            "plu": "19584082",
+            "description": "Utility Cargo Pants",
+            "unitPrice": "73.00",
+            "brand": "Nike",
+            "originalPlu": "19584082",
+            "mediaRef": "jd_669229"
+        },
+        {
+            "plu": "19581349",
+            "description": "Astro Cargo Skirt",
+            "unitPrice": "35.00",
+            "brand": "Supply & Demand",
+            "originalPlu": "19581349",
+            "mediaRef": "jd_678616"
+        },
+        {
+            "plu": "19581347",
+            "description": "Tactic Flare Leggings",
+            "unitPrice": "30.00",
+            "brand": "Supply & Demand",
+            "originalPlu": "19581347",
+            "mediaRef": "jd_678613"
+        },
+        {
+            "plu": "19581345",
+            "description": "Lucid Hoodie",
+            "unitPrice": "45.00",
+            "brand": "Supply & Demand",
+            "originalPlu": "19581345",
+            "mediaRef": "jd_678615"
+        },
+        {
+            "plu": "19575007",
+            "description": "Phoenix Oversized Hoodie",
+            "unitPrice": "60.00",
+            "brand": "Nike",
+            "originalPlu": "19575007",
+            "mediaRef": "jd_669194"
+        },
+        {
+            "plu": "19589450",
+            "description": "Rangers FC 2023 24 Third Shirt Women s",
+            "unitPrice": "70.00",
+            "brand": "Castore",
+            "originalPlu": "19589450",
+            "mediaRef": "jd_638039"
+        },
+        {
+            "plu": "19589440",
+            "description": "Newcastle United FC 2023 24 Third Shirt Women s",
+            "unitPrice": "70.00",
+            "brand": "Castore",
+            "originalPlu": "19589440",
+            "mediaRef": "jd_639078"
+        },
+        {
+            "plu": "19589629",
+            "description": "Box Graphic T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Columbia",
+            "originalPlu": "19589629",
+            "mediaRef": "jd_684417"
+        },
+        {
+            "plu": "19589628",
+            "description": "Box Graphic T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Columbia",
+            "originalPlu": "19589628",
+            "mediaRef": ""
+        },
+        {
+            "plu": "19589627",
+            "description": "Circle Back Graphic T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Columbia",
+            "originalPlu": "19589627",
+            "mediaRef": "jd_684422"
+        },
+        {
+            "plu": "19589626",
+            "description": "Circle Back Graphic T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Columbia",
+            "originalPlu": "19589626",
+            "mediaRef": "jd_684418"
+        },
+        {
+            "plu": "19589605",
+            "description": "Air Flare Leggings",
+            "unitPrice": "60.00",
+            "brand": "Nike",
+            "originalPlu": "19589605",
+            "mediaRef": "jd_669180"
+        },
+        {
+            "plu": "19589588",
+            "description": "Training Seamless Long Sleeve Top",
+            "unitPrice": "45.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589588",
+            "mediaRef": "jd_664063"
+        },
+        {
+            "plu": "19589587",
+            "description": "Training Seamless Tights",
+            "unitPrice": "58.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589587",
+            "mediaRef": "jd_664070"
+        },
+        {
+            "plu": "19589586",
+            "description": "Train Seamless Crop Tank Top",
+            "unitPrice": "36.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589586",
+            "mediaRef": "jd_664066"
+        },
+        {
+            "plu": "19589585",
+            "description": "Mountain Back Graphic T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Columbia",
+            "originalPlu": "19589585",
+            "mediaRef": "jd_684420"
+        },
+        {
+            "plu": "19589572",
+            "description": "Running Lightweight Jacket",
+            "unitPrice": "90.00",
+            "brand": "The North Face",
+            "originalPlu": "19589572",
+            "mediaRef": "jd_655305"
+        },
+        {
+            "plu": "19589563",
+            "description": "Club Sportswear T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Nike",
+            "originalPlu": "19589563",
+            "mediaRef": "jd_669210"
+        },
+        {
+            "plu": "19589559",
+            "description": "Essential Fleece Joggers",
+            "unitPrice": "55.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589559",
+            "mediaRef": "jd_664024"
+        },
+        {
+            "plu": "19589558",
+            "description": "Wordmark Tights",
+            "unitPrice": "47.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589558",
+            "mediaRef": "jd_664054"
+        },
+        {
+            "plu": "19589555",
+            "description": "Logo Padded Jacket",
+            "unitPrice": "200.00",
+            "brand": "The North Face",
+            "originalPlu": "19589555",
+            "mediaRef": "jd_655296"
+        },
+        {
+            "plu": "19589554",
+            "description": "Logo Padded Jacket",
+            "unitPrice": "200.00",
+            "brand": "The North Face",
+            "originalPlu": "19589554",
+            "mediaRef": "jd_655295"
+        },
+        {
+            "plu": "19589542",
+            "description": "Simple Dome T-Shirt Women s",
+            "unitPrice": "30.00",
+            "brand": "The North Face",
+            "originalPlu": "19589542",
+            "mediaRef": "jd_655386"
+        },
+        {
+            "plu": "19581741",
+            "description": "Air Crop 1 4 Zip Top",
+            "unitPrice": "73.00",
+            "brand": "Nike",
+            "originalPlu": "19581741",
+            "mediaRef": "jd_669179"
+        },
+        {
+            "plu": "19589200",
+            "description": "Puffer Jacket",
+            "unitPrice": "110.00",
+            "brand": "Hoodrich",
+            "originalPlu": "19589200",
+            "mediaRef": "jd_674860"
+        },
+        {
+            "plu": "19589177",
+            "description": "Training Seamless Long Sleeve Top",
+            "unitPrice": "45.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589177",
+            "mediaRef": "jd_664186"
+        },
+        {
+            "plu": "19589176",
+            "description": "Training Seamless Shorts",
+            "unitPrice": "40.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589176",
+            "mediaRef": "jd_664092"
+        },
+        {
+            "plu": "19589175",
+            "description": "Train Seamless T-Shirt",
+            "unitPrice": "40.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589175",
+            "mediaRef": "jd_664090"
+        },
+        {
+            "plu": "19589174",
+            "description": "Training Seamless Tights",
+            "unitPrice": "58.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589174",
+            "mediaRef": "jd_664190"
+        },
+        {
+            "plu": "19589173",
+            "description": "Train Seamless Crop Tank Top",
+            "unitPrice": "36.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589173",
+            "mediaRef": "jd_664084"
+        },
+        {
+            "plu": "19589172",
+            "description": "Crossback Mid Sports Bra",
+            "unitPrice": "31.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589172",
+            "mediaRef": "jd_664181"
+        },
+        {
+            "plu": "19589161",
+            "description": "Tech Twist Tank Top",
+            "unitPrice": "23.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589161",
+            "mediaRef": "jd_664183"
+        },
+        {
+            "plu": "19589160",
+            "description": "Tech Twist 1 2 Zip Top",
+            "unitPrice": "38.00",
+            "brand": "Under Armour",
+            "originalPlu": "19589160",
+            "mediaRef": "jd_664375"
+        },
+        {
+            "plu": "19588896",
+            "description": "Varsity Baby T-Shirt",
+            "unitPrice": "35.00",
+            "brand": "Nike",
+            "originalPlu": "19588896",
+            "mediaRef": "jd_678917"
+        },
+        {
+            "plu": "19588861",
+            "description": "Redbox T-Shirt",
+            "unitPrice": "30.00",
+            "brand": "The North Face",
+            "originalPlu": "19588861",
+            "mediaRef": "jd_655384"
+        },
+        {
+            "plu": "19588860",
+            "description": "Redbox T-Shirt",
+            "unitPrice": "30.00",
+            "brand": "The North Face",
+            "originalPlu": "19588860",
+            "mediaRef": "jd_655383"
+        },
+        {
+            "plu": "19588859",
+            "description": "Celtic FC Training Shirt Women s",
+            "unitPrice": "40.00",
+            "brand": "adidas",
+            "originalPlu": "19588859",
+            "mediaRef": "jd_654957"
+        },
+        {
+            "plu": "19588858",
+            "description": "Diamond Shorts",
+            "unitPrice": "60.00",
+            "brand": "Jordan",
+            "originalPlu": "19588858",
+            "mediaRef": "jd_668921"
+        },
+        {
+            "plu": "19588854",
+            "description": "Oval Logo Crew Sweatshirt",
+            "unitPrice": "140.00",
+            "brand": "Lacoste",
+            "originalPlu": "19588854",
+            "mediaRef": "jd_619151"
+        },
+        {
+            "plu": "19588852",
+            "description": "High Crossback Sports Bra",
+            "unitPrice": "40.00",
+            "brand": "Under Armour",
+            "originalPlu": "19588852",
+            "mediaRef": "jd_664172"
+        },
+        {
+            "plu": "19540215",
+            "description": "Woven Track Pants",
+            "unitPrice": "73.00",
+            "brand": "Jordan",
+            "originalPlu": "19540215",
+            "mediaRef": "jd_668920"
+        },
+        {
+            "plu": "19587122",
+            "description": "Tech Fleece Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19587122",
+            "mediaRef": "jd_669158"
+        },
+        {
+            "plu": "19586874",
+            "description": "Tech Fleece Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19586874",
+            "mediaRef": "jd_669191"
+        },
+        {
+            "plu": "19586873",
+            "description": "Tech Fleece Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19586873",
+            "mediaRef": "jd_669159"
+        },
+        {
+            "plu": "19584554",
+            "description": "Tech Fleece Plus Size Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19584554",
+            "mediaRef": "jd_669249"
+        },
+        {
+            "plu": "19584553",
+            "description": "Tech Fleece Plus Size Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19584553",
+            "mediaRef": "jd_669248"
+        },
+        {
+            "plu": "19584552",
+            "description": "Tech Fleece Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19584552",
+            "mediaRef": "jd_669192"
+        },
+        {
+            "plu": "19584551",
+            "description": "Tech Fleece Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19584551",
+            "mediaRef": "jd_669172"
+        },
+        {
+            "plu": "19584549",
+            "description": "Tech Fleece Joggers",
+            "unitPrice": "100.00",
+            "brand": "Nike",
+            "originalPlu": "19584549",
+            "mediaRef": "jd_669161"
+        },
+        {
+            "plu": "19584547",
+            "description": "Tech Fleece Cape Track Top",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19584547",
+            "mediaRef": "jd_669193"
+        },
+        {
+            "plu": "19584546",
+            "description": "Plus Size Tech Fleece Full Zip Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19584546",
+            "mediaRef": "jd_669247"
+        },
+        {
+            "plu": "19584543",
+            "description": "Tech Fleece Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19584543",
+            "mediaRef": "jd_669171"
+        },
+        {
+            "plu": "19584541",
+            "description": "Tech Fleece Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19584541",
+            "mediaRef": "jd_669160"
+        },
+        {
+            "plu": "19581868",
+            "description": "Tech Fleece Hoodie",
+            "unitPrice": "120.00",
+            "brand": "Nike",
+            "originalPlu": "19581868",
+            "mediaRef": "jd_669164"
+        },
+        {
+            "plu": "19575731",
+            "description": "Tech T-Shirt",
+            "unitPrice": "25.00",
+            "brand": "Under Armour",
+            "originalPlu": "19575731",
+            "mediaRef": "jd_664027"
+        }
+    ]
+}

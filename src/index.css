@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+#mainpage {
+  width: 80%;
+  margin: 2rem auto !important;
+}
+
+.swiper-slide img {
+  width: 100% !important;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+} 

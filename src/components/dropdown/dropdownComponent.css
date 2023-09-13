@@ -1,0 +1,10 @@
+.Dropdown-section ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.Dropdown-section li{
+ margin: 0 10px;      
+ padding: 0 10px; 
+ text-align: center;
+}
