@@ -43,7 +43,7 @@ app.post('/register', async(req, res) => {
 
 app.post('/login', async (req,res) => {
     try{
-        const { username, email, password } = req.body; 
+        const { email, password } = req.body; 
         const exist = await devuser.findOne({email});
         if(!exist){
             return res.status(400).send('User not Exist');
